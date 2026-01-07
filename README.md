@@ -22,5 +22,4 @@ I work with C++, Java, SQL, Git/GitHub, and I'm currently preparing for the AWS 
 - SQL practice exercises
 
 ## 📫 Contact
-- 
 - GitHub: github.com/31v1
