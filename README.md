@@ -7,7 +7,7 @@ I work with C++, Java, SQL, Git/GitHub, and I'm currently preparing for the AWS 
 - C++
 - Java
 - SQL
-- Git & GitHub in progress)
+- Git & GitHub (in progress)
 - AWS (in progress)
 
 ## 📚 What I'm learning
