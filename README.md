@@ -1,7 +1,7 @@
 # Hi I'm elvia-sanchez-leiva (31v1) 👋
 
 I'm a Computer Engineering student with HR background.  
-I work with C++, Java, SQL, Git/GitHub, and I'm currently preparing for databases, taking the database 1 course.
+I work with C++, Java, Git/GitHub, and I'm currently preparing for databases, taking the database 1 course.
 
 ## 🔧 Technologies & Tools
 - C++
@@ -13,12 +13,12 @@ I work with C++, Java, SQL, Git/GitHub, and I'm currently preparing for database
 - Object-oriented programming (Java)
 - Data structures & algorithms (C++)
 - Databases and SQL
-- Cloud fundamentals (AWS)
 
 ## 🚀 Projects (coming soon)
 - C++ algorithms
 - Java OOP project
 - SQL practice exercises
-
+- Cloud fundamentals (AWS)
+- 
 ## 📫 Contact
 - GitHub: github.com/31v1
