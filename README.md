@@ -15,8 +15,6 @@ I work with C++, Java, Git/GitHub, and I'm currently preparing for databases, ta
 - Databases and SQL
 
 ## 🚀 Projects (coming soon)
-- C++ algorithms
-- Java OOP project
 - SQL practice exercises
 - Cloud fundamentals (AWS)
 - 
