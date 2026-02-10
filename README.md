@@ -1,22 +1,25 @@
 # Hi I'm elvia-sanchez-leiva (31v1) 👋
 
 I'm a Computer Engineering student with HR background.  
-I work with C++, Java, Git/GitHub, and I'm currently preparing for databases, taking the database 1 course.
+I code mainly in C++ and Java, and I'm currently preparing for databases (SQL and No-SQL), currently on the Database 1 course. 
 
-## 🔧 Technologies & Tools
-- C++
-- Java
-- SQL (in progress)
-- Git & GitHub (in progress)
+## 💻 Core Skills 
+- Java (OOP, Swing GUI, File I/O, Validation)
+- C++ (Data structures & algorithms)
+- SQL (Databases, currently learning) 
 
 ## 📚 What I'm learning
 - Object-oriented programming (Java)
 - Data structures & algorithms (C++)
 - Databases and SQL
 
-## 🚀 Projects (coming soon)
-- SQL practice exercises
-- Cloud fundamentals (AWS)
-- 
+## 🚀 Projects 
+This GitHub profile contains: 
+- Practice exercises I create myself to strengthen my skills in Java, C++, and SQL.
+- University projects that I upload to showcase my academic work and improve them over time. Code and documentation are written in Spanish, as the projects were developed in an academic context. 
+  Examples:
+  - [Pet Report Manager – Console Version](https://github.com/31v1/Pet-Report-Manager) Java OOP project with inheritance, polymorphism, and file persistence.
+  - [Pet Report Manager – GUI Version](https://github.com/31v1/Pet-Report-Manager-GUI-version) Java Swing application with forms, tables, and coincidence detection.
+ 
 ## 📫 Contact
 - GitHub: github.com/31v1
