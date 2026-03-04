@@ -24,8 +24,8 @@ This GitHub profile contains:
 - University projects that I upload to showcase my academic work and improve them over time. Code and documentation are written in Spanish, as the projects were developed in an academic context.
   
   Examples:
-  - [Pet Report Manager – Console Version](https://github.com/31v1/Pet-Report-Manager) Java OOP project with inheritance, polymorphism, and file persistence.
-  - [Pet Report Manager – GUI Version](https://github.com/31v1/Pet-Report-Manager-GUI-version) Java Swing application with forms, tables, and coincidence detection.
+  - [Pet Report Manager – Console Version](https://github.com/31v1/Pet-Report-Manager-Console) Java OOP project with inheritance, polymorphism, and file persistence.
+  - [Pet Report Manager – GUI Version](https://github.com/31v1/Pet-Report-Manager-GUI-version-) Java Swing application with forms, tables, and coincidence detection.
  
 ## 📫 Contact
 - GitHub: github.com/31v1
