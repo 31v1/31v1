@@ -6,12 +6,14 @@ I code mainly in C++ and Java, and I'm currently preparing for databases (SQL an
 ## 💻 Core Skills 
 - Java (OOP, Swing GUI, File I/O, Validation)
 - C++ (Data structures & algorithms)
-- SQL (Databases, currently learning) 
+- SQL (Databases, currently learning)
+
 
 ## 📚 What I'm learning
 - Object-oriented programming (Java)
 - Data structures & algorithms (C++)
 - Databases and SQL
+- C# (playing with it on Linux )
 
 ## 🚀 Projects 
 This GitHub profile contains: 
