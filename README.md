@@ -1,4 +1,4 @@
-# Hi I'm elvia-sanchez-leiva (31v1) 👋
+ # Hi I'm elvia-sanchez-leiva (31v1) 👋
 
 I'm a Computer Engineering student with HR background.  
 I code mainly in C++ and Java, and I'm currently preparing for databases (SQL and No-SQL), currently on the Database 1 course. 
@@ -23,6 +23,9 @@ This GitHub profile contains:
   Examples:
   - [Pet Report Manager – Console Version](https://github.com/31v1/Pet-Report-Manager-Console) Java OOP project with inheritance, polymorphism, and file persistence.
   - [Pet Report Manager – GUI Version](https://github.com/31v1/Pet-Report-Manager-GUI-version-) Java Swing application with forms, tables, and coincidence detection.
+ 
+  - [Legacy---Refactor] (
+Legacy projects from Programming courses, preserved and improved through refactoring and better coding practices.
  
 ## 📫 Contact
 - GitHub: github.com/31v1
