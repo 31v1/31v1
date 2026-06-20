@@ -7,7 +7,7 @@ I have **corporate experience** in operations, problem-solving, and customer-fac
 
 ## 🎓 Academic Background (UNED)
 
-- **Diploma in Computer Engineering** (In progress – expected graduation 2027)
+- **Diploma in Computer Engineering** (In progress – expected graduation 2028)
 - Relevant coursework:
   - Programming: Introduction to Programming, Intermediate Programming.
   - Logic: Algorithmic Logic, Logic for Computing.
@@ -25,17 +25,16 @@ I have **corporate experience** in operations, problem-solving, and customer-fac
 | Java | OOP, Swing GUI, File I/O, Validation |
 | C++ | Data structures & algorithms |
 | Databases | SQL (MySQL, basic queries, design) |
-| Tools | Power BI, Salesforce, MS Office |
+| Tools | Salesforce, MS Office |
 | Soft skills | Problem-solving, SLA compliance, case management |
 
 ---
 
 ## 🌱 Currently learning
 
-- Object-oriented programming (Java)
-- Data structures & algorithms (C++)
-- Advanced SQL and database design
-- C# (self-study on Linux)
+- Data Structures and Algorithms
+- Advanced SQL and Database Design
+- C# Fundamentals
 
 ---
 
