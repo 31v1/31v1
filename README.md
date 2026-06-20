@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elvia Sánchez (31v1)
 
-I'm a **Computer Engineering student** at UNED (Costa Rica).
+I'm a **Computer Science student** at UNED (Costa Rica).
 I have **corporate experience** in operations, problem-solving, and customer-facing roles (Amazon).
 
 ---
