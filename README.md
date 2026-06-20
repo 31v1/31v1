@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Elvia Sánchez (31v1)
 
-I'm a **Computer Science student** at UNED (Costa Rica).
-I have **corporate experience** in operations, problem-solving, and customer-facing roles (Amazon).
+Computer Science student at UNED (Costa Rica) focused on software development, object-oriented programming, and database systems. Currently building academic and personal projects in Java while expanding knowledge of data structures and software engineering fundamentals.
 
 ---
 
