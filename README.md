@@ -38,9 +38,7 @@ Computer Engineering student at UNED (Costa Rica) focused on software developmen
 ---
 
 ## 🚀 Projects 
-This GitHub profile contains: 
-   
-University projects that I upload to showcase my academic work and improve them over time. Code and documentation are written in Spanish, as the projects were developed in an academic context.
+This GitHub contains academic software projects developed during my Computer Science studies at UNED (Costa Rica). The focus is on applying object-oriented programming, database design, and software engineering fundamentals.
   
   Examples:
   - [Pet Report Manager – Console Version](https://github.com/31v1/Pet-Report-Manager-Console)
