@@ -25,7 +25,6 @@ Computer Engineering student at UNED (Costa Rica) focused on software developmen
 | C++ | Object-oriented programming, data structures (academic) |
 | Databases | MySQL, SQL (queries, schema design) |
 | Tools | MS Office |
-| Soft skills | Problem-solving, SLA compliance, case management |
 
 ---
 
