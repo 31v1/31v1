@@ -46,8 +46,9 @@ This GitHub profile contains:
   - [Pet Report Manager – Console Version](https://github.com/31v1/Pet-Report-Manager-Console)
 Java console application using OOP (inheritance, polymorphism) and file persistence. Manages pet reports with search and listing features.
   - [Pet Report Manager – GUI Version](https://github.com/31v1/Pet-Report-Manager-GUI-version-)
-Java Swing desktop app with forms, tables, and coincidence detection. Demonstrates event handling and UI design..
- 
+Java Swing desktop app with forms, tables, and coincidence detection. Demonstrates event handling and UI design.
+ - [TechServices-DB](https://github.com/31v1/TechServices-DB-)
+MySQL database schema with views, triggers, stored procedures, and audit logging. Demonstrates database design, transactions, and data integrity.
   - [Legacy---Refactor](https://github.com/31v1/Legacy---Refactor)
 Collection of legacy programming course projects that I refactored to apply better coding practices and clean code principles.
 
