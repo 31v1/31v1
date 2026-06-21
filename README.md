@@ -23,7 +23,7 @@ Computer Engineering student at UNED (Costa Rica) focused on software developmen
 | Languages | Java, C++, SQL |
 | Java | OOP, Swing GUI, File I/O, Validation |
 | C++ | Object-oriented programming, data structures (academic) |
-| Databases | MySQL, SQL (queries, schema design)) |
+| Databases | MySQL, SQL (queries, schema design) |
 | Tools | Salesforce, MS Office |
 | Soft skills | Problem-solving, SLA compliance, case management |
 
