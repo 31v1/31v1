@@ -6,7 +6,7 @@ Computer Engineering student at UNED (Costa Rica) focused on software developmen
 
 ## 🎓 Academic Background (UNED)
 
-- **Diploma in Computer Engineering** (In progress – expected graduation 2028)
+- **Bachelor's in Computer Engineering** (In progress – expected graduation 2028)
 - Relevant coursework:
   - Programming: Introduction to Programming, Intermediate Programming.
   - Logic: Algorithmic Logic, Logic for Computing.
