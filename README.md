@@ -21,11 +21,11 @@ Computer Engineering student at UNED (Costa Rica) focused on software developmen
 
 | Category | Technologies |
 |----------|--------------|
-| Languages | Java, C++, SQL |
+| Languages | Java, C++, C#, SQL |
 | Java | OOP, Swing GUI, File I/O, Validation |
 | C++ | Object-oriented programming, data structures (academic) |
 | Databases | MySQL, SQL (queries, schema design) |
-| Tools | MS Office | Microsoft 365 | Windows | Git | GitHub
+| Tools | Microsoft 365 | Windows | Git | GitHub
 
 ---
 
