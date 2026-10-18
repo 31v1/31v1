@@ -42,14 +42,14 @@ Computer Engineering student at UNED (Costa Rica) focused on software developmen
 This GitHub contains academic software projects developed duringduring my Computer Engineering studies at UNED (Costa Rica). The focus is on applying object-oriented programming, database design, and software engineering fundamentals.
   
   Examples:
-  - [Pet Report Manager – Console Version](https://github.com/31v1/Pet-Report-Manager-Console)
-  Java console application using OOP (inheritance, polymorphism) and file persistence. Manages pet reports with search and listing features.
-  - [Pet Report Manager – GUI Version](https://github.com/31v1/Pet-Report-Manager-GUI-version-)
+   - [Student Management System – Binary Search Tree](https://github.com/31v1/Student-Registration-System)
+  Java Swing desktop app that manages student records with a recursive binary search tree built from scratch. Includes custom deletion rules, traversals, and graphical tree visualization.
+   - [Pet Report Manager – GUI Version](https://github.com/31v1/Pet-Report-Manager-GUI-version-)
   Java Swing desktop app with forms, tables, and coincidence detection. Demonstrates event handling and UI design.
-  - [TechServices-DB](https://github.com/31v1/TechServices-DB-)
+   - [TechServices-DB](https://github.com/31v1/TechServices-DB-)
   MySQL database schema with views, triggers, stored procedures, and audit logging. Demonstrates database design, transactions, and data integrity.
-  - [Legacy---Refactor](https://github.com/31v1/Legacy---Refactor)
-  Collection of legacy programming course projects that I refactored to apply better coding practices and clean code principles.
+   - [Pet Report Manager – Console Version](https://github.com/31v1/Pet-Report-Manager-Console)
+  Java console application using OOP (inheritance, polymorphism) and file persistence. Manages pet reports with search and listing features.
 
 *(More university and personal projects coming soon)*
 
