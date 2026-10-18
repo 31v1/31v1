@@ -8,12 +8,13 @@ Computer Engineering student at UNED (Costa Rica) focused on software developmen
 
 - **Bachelor's in Computer Engineering** (In progress – expected graduation 2028)
 - Relevant coursework:
-  - Programming: Introduction to Programming, Intermediate Programming.
+  - Programming: Introduction to Programming, Intermediate Programming, Advanced Programming (in progress)
+  - Data Structures: Data Structures
   - Logic: Algorithmic Logic, Logic for Computing.
   - Mathematics: Math for Computing I & II, Statistics I.
   - Computer Architecture: Computer Organization.
+  - Operating Systems: Operating Systems (in progress)
   - Databases: Database Fundamentals
-
 ---
 
 ## 💻 Technical Skills
@@ -24,20 +25,21 @@ Computer Engineering student at UNED (Costa Rica) focused on software developmen
 | Java | OOP, Swing GUI, File I/O, Validation |
 | C++ | Object-oriented programming, data structures (academic) |
 | Databases | MySQL, SQL (queries, schema design) |
-| Tools | MS Office |
+| Tools | MS Office | Microsoft 365 | Windows | Git | GitHub
 
 ---
 
 ## 🌱 Currently learning
 
 - Data Structures and Algorithms
-- Advanced SQL and Database Design
-- C# Fundamentals
+- Azure Fundamentals
+- Cybersecurity Fundamentals 
+- Power BI 
 
 ---
 
 ## 🚀 Projects 
-This GitHub contains academic software projects developed during my Computer Science studies at UNED (Costa Rica). The focus is on applying object-oriented programming, database design, and software engineering fundamentals.
+This GitHub contains academic software projects developed duringduring my Computer Engineering studies at UNED (Costa Rica). The focus is on applying object-oriented programming, database design, and software engineering fundamentals.
   
   Examples:
   - [Pet Report Manager – Console Version](https://github.com/31v1/Pet-Report-Manager-Console)
@@ -53,4 +55,4 @@ This GitHub contains academic software projects developed during my Computer Sci
 
  
 ## 📫 Contact
-- GitHub: github.com/31v1
+- Email: elvia.sanchezleiva@proton.me
