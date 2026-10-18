@@ -52,7 +52,7 @@ This GitHub contains academic software projects developed duringduring my Comput
   MySQL database schema with views, triggers, stored procedures, and audit logging. Demonstrates database design, transactions, and data integrity.
    - [Pet Report Manager – Console Version](https://github.com/31v1/Pet-Report-Manager-Console)
   Java console application using OOP (inheritance, polymorphism) and file persistence. Manages pet reports with search and listing features.
-   - [Legacy---Refactor] (https://github.com/31v1/Legacy---Refactor)
+   - [Legacy---Refactor](https://github.com/31v1/Legacy---Refactor)
   Collection of legacy programming course projects that I refactored to apply better coding practices and clean code principles 
 
 *(More university and personal projects coming soon)*
