@@ -44,6 +44,8 @@ This GitHub contains academic software projects developed duringduring my Comput
   Examples:
    - [Student Management System – Binary Search Tree](https://github.com/31v1/Student-Registration-System)
   Java Swing desktop app that manages student records with a recursive binary search tree built from scratch. Includes custom deletion rules, traversals, and graphical tree visualization.
+   - [Hospital Management System]()
+  Java Swing desktop app that manages hospitals and patients using stacks (LIFO) and queues (FIFO) built with fixed-size arrays, without Java Collections.
    - [Pet Report Manager – GUI Version](https://github.com/31v1/Pet-Report-Manager-GUI-version-)
   Java Swing desktop app with forms, tables, and coincidence detection. Demonstrates event handling and UI design.
    - [TechServices-DB](https://github.com/31v1/TechServices-DB-)
